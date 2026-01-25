@@ -24,6 +24,15 @@ const works = [
     link: "https://github.com/karamiso1211/stt_whisper_offline", // ← このソフトのコードがあるGitHub URL
     image: "/images/text-voice.png",
   },
+  {
+    title: "ガジェット＆開発記録ブログ",
+    // 説明文にも少しテクニカルな要素を足しました
+    description: "ガジェットレビューや開発記録をつづるブログです。記事はMarkdownで管理し、Next.js + Cloudflare Pagesで高速に配信しています。",
+    // スキルにMarkdownを追加
+    skills: ["Next.js", "Cloudflare Pages", "Markdown"], 
+    link: "https://my-blog-1i3.pages.dev",
+    image: "/images/blog.png",
+  },
 ];
 
 export default function Works() {
