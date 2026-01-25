@@ -18,12 +18,12 @@ const works = [
   },
   // 画像がない場合のダミーデータ
   {
-    title: "架空のカフェLP",
-    description: "HTML/CSSの基礎学習として模写コーディングを行いました。",
-    skills: ["HTML", "CSS"],
-    link: "#",
-    image: "",
-  },
+    title: "デスクトップ弾幕読み上げツール", // ← 好きな名前に
+    description: "入力したテキストを合成音声で読み上げながら、ニコニコ動画のように画面上に文字を流すPython製アプリです。デスクトップマスコットとして作成しました。",
+    skills: ["Python", "Tkinter", "pyttsx3"], // ← 使ったライブラリに合わせて書き換えてください
+    link: "https://github.com/karamiso1211/stt_whisper_offline", // ← このソフトのコードがあるGitHub URL
+    image: "/images/text-voice.png",
+  },,
 ];
 
 export default function Works() {
