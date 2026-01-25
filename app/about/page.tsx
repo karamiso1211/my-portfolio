@@ -5,7 +5,7 @@ const skills = [
   { name: "HTML/CSS", level: 80 },
   { name: "Python", level: 70 },
   { name: "Unity / C#", level: 60 },
-  { name: "Node.js", level: 40 },
+  { name: "Next.js", level: 40 },
   { name: "Git / GitHub", level: 10 },
 ];
 
@@ -25,6 +25,11 @@ const timeline = [
     year: "2025.12",
     title: "ポートフォリオ制作",
     description: "学習の集大成として、Next.jsを使ったポートフォリオサイトの構築を開始。",
+  },
+  {
+    year: "2026.1",
+    title: "カレンダーアプリ作成",
+    description: "就活での予定管理に使うため",
   },
 ];
 
