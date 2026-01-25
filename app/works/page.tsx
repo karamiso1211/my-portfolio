@@ -54,7 +54,7 @@ export default function Works() {
             </div>
 
             {/* --- テキストエリア --- */}
-            <div className="p-6 flex flex-col flex-grow">
+            <div className="p-6 flex flex-col grow">
               <h2 className="text-xl font-bold mb-2">{work.title}</h2>
               
               <div className="flex flex-wrap gap-2 mb-4">
@@ -65,7 +65,7 @@ export default function Works() {
                 ))}
               </div>
 
-              <p className="text-gray-600 mb-4 text-sm flex-grow">
+              <p className="text-gray-600 mb-4 text-sm grow">
                 {work.description}
               </p>
               
