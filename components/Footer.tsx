@@ -12,14 +12,14 @@ const Footer = () => {
 
         {/* 右側：SNSリンク（アイコンの代わりに文字で） */}
         <div className="flex gap-6 text-sm font-medium">
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a href="https://github.com/karamiso1211" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             GitHub
           </a>
-          <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a href="https://x.com/sk_kazukiishii" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             X (Twitter)
           </a>
           {/* 必要ならメールリンクも */}
-          <a href="mailto:example@email.com" className="hover:text-white transition">
+          <a href="mailto:sk.kazukiishii@gmail.com" className="hover:text-white transition">
             Contact
           </a>
         </div>
