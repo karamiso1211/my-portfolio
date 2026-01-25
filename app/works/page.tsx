@@ -10,11 +10,11 @@ const works = [
     image: "/images/EX_1.png", // ← 自分の画像ファイル名に変えてください
   },
   {
-    title: "自作のNode.jsアプリ",
-    description: "ReactのState管理を学ぶために作成したシンプルなToDoアプリです。",
-    skills: ["React", "JavaScript"],
-    link: "#", 
-    image: "",      // ← 自分の画像ファイル名に変えてください
+    title: "共有カレンダーアプリ",
+    description: "家族や友人とリアルタイムで予定を共有できるアプリです。予定の色分けや、通知機能を実装しました。",
+    skills: ["Next.js", "Firebase", "TypeScript"], // ← 実際に使った技術に変えてください
+    link: "https://my-shared-calendar.vercel.app/", // ← アプリのURL または GitHubのURL
+    image: "/images/calendar.png", // ← さっき入れた画像ファイル名
   },
   // 画像がない場合のダミーデータ
   {

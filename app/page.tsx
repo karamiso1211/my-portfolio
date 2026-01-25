@@ -18,7 +18,7 @@ export default function Home() {
         {/* サブテキスト */}
         <p className="text-lg md:text-xl text-gray-400 mb-10 max-w-2xl">
           Web開発からゲーム制作まで。<br className="md:hidden"/>
-          技術でアイデアを形にするエンジニア、[あなたの名前]のポートフォリオです。
+          技術でアイデアを形にするエンジニア、karamisoのポートフォリオです。
         </p>
         
         {/* ボタンエリア */}

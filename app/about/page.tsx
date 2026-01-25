@@ -42,7 +42,7 @@ export default function About() {
           <div className="w-32 h-32 bg-gray-300 rounded-full flex-shrink-0 mx-auto md:mx-0"></div>
           
           <div>
-            <h2 className="text-xl font-bold mb-2">あなたの名前 / ニックネーム</h2>
+            <h2 className="text-xl font-bold mb-2">karamiso / みそちゃ</h2>
             <p className="text-gray-600 leading-relaxed">
               はじめまして！Webエンジニアを目指して勉強中です。<br />
               「編集のしやすさ」と「コードの綺麗さ」を意識して開発することを心がけています。<br />
